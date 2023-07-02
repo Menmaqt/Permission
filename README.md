@@ -1,0 +1,3 @@
+# permission
+izin bang
+register
